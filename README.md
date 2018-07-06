@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height=auto src="./images/facedetect.svg">
+  <img width="460" height=auto src="./images/facedetect.svg" style="margin:50px 0px">
 </p>
 
 # Facedetect App
